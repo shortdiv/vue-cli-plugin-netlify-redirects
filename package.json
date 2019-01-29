@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-netlify-redirects",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
   "scripts": {
     "test": "jest"
@@ -24,6 +24,10 @@
   ],
   "author": "Divya Sasidharan",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shortdiv/vue-cli-plugin-netlify-redirects/issues"
+  },
+  "homepage": "https://github.com/shortdiv/vue-cli-plugin-netlify-redirects#readme",
   "dependencies": {
     "@vue/cli": "^3.3.0",
     "@vue/cli-plugin-babel": "^3.3.0",
